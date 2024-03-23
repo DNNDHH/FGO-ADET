@@ -15,7 +15,7 @@
 # 解密😍
 - 用 记事本 或 文本编辑器 打开文件并从 ZSv开始复制到结束！(ZSv前面有一个什么坤八符号…不用复制它)
 
-- 将复制的内容填写到 key_o.txt 之中！
+- 将复制的内容粘贴到 key_o.txt 之中！
 - 运行 FGO-ADET 点击解密
 - 打开 key_o.json 就可以看到 userId authKey secretKey 
 
