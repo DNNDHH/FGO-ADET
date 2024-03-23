@@ -1,5 +1,6 @@
 # FGO-ADET
-- FGO Account Decryption&amp;Encryption Tool (FGO 账号文件 解密&amp;加密 工具)
+- FGO Account Decryption&amp;Encryption Tool 
+- FGO 账号文件 解密&amp;加密 工具
 <img width="35%" style="border: 1px solid black" src="https://i.imgur.com/Bb5iUlu.png">
 
 # 提取 游戏账号数据
