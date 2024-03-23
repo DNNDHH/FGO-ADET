@@ -1,6 +1,6 @@
 # FGO-ADET
 FGO Account Decryption&amp;Encryption Tool (FGO 账号文件 解密&amp;加密 工具)
-<img width="50%" style="border: 1px solid black" src="https://i.imgur.com/Bb5iUlu.png">
+<img width="35%" style="border: 1px solid black" src="https://i.imgur.com/Bb5iUlu.png">
 
 # 提取 游戏账号数据
 
@@ -25,7 +25,7 @@ FGO Account Decryption&amp;Encryption Tool (FGO 账号文件 解密&amp;加密 �
 - 运行 FGO-ADET 点击 加密模式 o 或 s
 - 加密完成 将出现 54cc790bf952ea710ed7e8be08049531.txt 文件！
 
-# 处理 加密回来 的 账号文件 54cc790bf952ea710ed7e8be08049531.txt 让 FGO官方游戏客户端 可以 登录使用
+# 如何处理 加密回来的账号文件 让 FGO官方游戏客户端 可以登录使用！
 
 - 使用任意16进制编辑器打开 54cc790bf952ea710ed7e8be08049531.txt 文件，
 
