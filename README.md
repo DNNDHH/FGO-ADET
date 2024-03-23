@@ -15,6 +15,9 @@
 - 用 记事本 或 文本编辑器 打开文件并从 ZSv开始复制到结束！(ZSv前面有一个什么坤八符号…不用复制它)
 - 将复制的内容填写到 key_o.txt 之中！
 - 运行 FGO-ADET 点击解密
+- 打开 key_o.json 就可以看到 userId authKey secretKey 
+- 然后随便你怎么用 开挂发包 还是 自动登录
+
 
 # 加密😎
 - 将你需要加密的 账户密钥 对应的填写 到 key_o.json 文件中 的 userId authKey secretKey 位置！
