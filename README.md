@@ -23,12 +23,12 @@
 
 
 # 加密😎
-- 将你需要加密的 账户密钥 对应的填写 到 key_o.json或者 key_s.json 文件中 的 userId authKey secretKey 位置！
+- 将你需要加密的 账户密钥 对应的填写 到 key_oo.json或者 key_ss.json 文件中 的 userId authKey secretKey 位置！
 
 - 不要 删除或修改 文件中的 其它符号！
 
-- 2018年之前的账户使用 加密模式 o (key_o.json)
-- 2018年之后的账户使用 加密模式 s (key_s.json)
+- 2018年之前的账户使用 加密模式 o (key_oo.json)
+- 2018年之后的账户使用 加密模式 s (key_ss.json)
 
 - 也不一定...建议 两个模式都试一试😛lol
 
