@@ -3,7 +3,7 @@
 - FGO 账号文件 解密&amp;加密 工具
 <img width="35%" style="border: 1px solid black" src="https://i.imgur.com/Bb5iUlu.png">
 
-# 提取 游戏账号数据
+# 提取 游戏账号数据文件
 
 需要提取账号数据才能执行此操作。
 很简单，您所需要做的就是用文件管理器到以下路径并获取以下文件（可能需要ROOT）： 
