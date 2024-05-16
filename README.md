@@ -11,6 +11,11 @@
 | 版本 | 文件路径 | 文件名称 |
 | --- | --- | --- | 
 | JP | `android/data/com.aniplex.fategrandorder/files/data/` | 54cc790bf952ea710ed7e8be08049531 |
+ADB命令复制到 下载 目录中 即 Download（可跳过部分系统的Root要求）
+```console
+adb shell cp /storage/emulated/0/Android/data/com.aniplex.fategrandorder/files/data/54cc790bf952ea710ed7e8be08049531 /storage/emulated/0/Download/
+```  
+-----------------
 
 # 解密😍
 - 复制 54cc790bf952ea710ed7e8be08049531 文件到 FGO-ADET 目录下
