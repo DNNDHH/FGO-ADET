@@ -17,9 +17,11 @@
 - 
 - 运行 FGO-ADET.exe , 点击 Decrypt (解密)
 - 
-- 打开 Decrypt_Server_Key.json 就可以看到 userId authKey secretKey
+- 将获得解密后的账号源码文件 Decrypt_Server_Key.json
 - 
-- 然后随便你怎么用 开挂发包 还是 自动登录签到
+- 自动解析提取的 userId authKey secretKey 分别保存在 authKey.txt secretKey.txt userId.txt 文件中
+- 
+- 然后该干什么..你明白的
 
 
 # 加密😎
