@@ -66,7 +66,6 @@ def run_main_py():
     with open("Decrypt_Server_Key.json", "r", encoding='utf-8') as json_file:
         data = json.load(json_file)
 
-
         decrypted_data = data
         if decrypted_data is not None:
 
