@@ -1,7 +1,7 @@
 # FGO-ADET
 - FGO Account Decryption&amp;Encryption Tool 
 - FGO 账号文件 解密&amp;加密 工具
-<img width="35%" style="border: 1px solid black" src="https://i.imgur.com/Bb5iUlu.png">
+<img width="35%" style="border: 1px solid black" src="https://i.imgur.com/egzRUEi.png">
 
 # 提取 游戏账号数据文件
 
@@ -29,14 +29,20 @@ adb shell cp /storage/emulated/0/Android/data/com.aniplex.fategrandorder/files/d
 - 
 - 然后该干什么..你明白的
 
+# 批量解密❤️
+- 将 多个 带有 54cc790bf952ea710ed7e8be08049531文件 的 文件夹 复制到 FGO-ADET 目录下
+- 
+- 运行 FGO-ADET.exe , 点击 Batch Decrypt (批量解密)
+-
+- 自动解析提取的 userId authKey secretKey 分别保存在FGO-ADET 目录下的 Batch_authKey.txt Batch_secretKey.txt Batch_userId.txt 文件中(已用,符号分隔开)
+
+
 
 # 加密😎
-- 将你需要加密的 账户密钥 对应的 填写 到 encrypt_o.json 或者 encrypt_s.json 文件中 的 userId authKey secretKey 三个对应的位置！
+- 将你需要加密的 账户密钥 对应的 填写 到 userId.txt authKey.txt secretKey.txt 三个文件中！ （一次只能加密一个账号）
 - 
-- 不要 删除或修改 文件中的 其它符号！
-- 
-- 2018年之前的账户使用 加密模式 o (encrypt_o.json)
-- 2018年之后的账户使用 加密模式 s (encrypt_s.json)
+- 2018年之前的账户使用 加密模式 o 
+- 2018年之后的账户使用 加密模式 s 
 - 
 - 也不一定...建议 两个模式都试一试😛lol
 - 
